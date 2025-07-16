@@ -4,7 +4,7 @@ function Banner () {
     //JSX=FORMA QUE O REACT LÊ A PARTE VISUAL, NÃO É HTML
     return(
         <header className="banner">
-        <img src="banner.png" alt="Banner do site"/>
+        <img src="/imagens/bannernovoo.png" alt="Banner do site"/>
         </header>
     )
 
